@@ -1,0 +1,14 @@
+.gradle/
+.kotlin/
+**/build/
+local.properties
+*.onnx
+*.onnx.data
+.DS_Store
+.local-models/
+.secrets/
+dist/
+*.jks
+*.keystore
+*.pending
+__pycache__/

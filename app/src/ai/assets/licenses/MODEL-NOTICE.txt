@@ -1,0 +1,10 @@
+LaMa FP32 ONNX model
+Distributor/source: Carve/LaMa-ONNX https://huggingface.co/Carve/LaMa-ONNX
+Revision: c3c0c9e468934d62e79c329e35d82dd09ff8c444
+SHA-256: 1faef5301d78db7dda502fe59966957ec4b79dd64e16f03ed96913c7a4eb68d6
+Model card declares Apache-2.0. See Apache-2.0.txt.
+Original LaMa implementation: https://github.com/advimman/lama
+ONNX export/custom Fourier implementation: https://github.com/Carve-Photos/lama
+Model weights are redistributed without changes; the application adds its own preprocessing and compositing.
+Kotlin standard library: JetBrains, Apache-2.0.
+ONNX Runtime: Microsoft, MIT; full license and bundled third-party notices are included alongside this notice.
